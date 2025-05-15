@@ -1,9 +1,8 @@
-# Привет, я [Ваше Имя] 👋  
+# Привет, меня зовут Сергей 👋  
 ### Фронтенд-разработчик с фокусом на современные веб-технологии
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_телеграм)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-linkedin)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ваш@email.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/akazaaaaaaaaaaaaaaaa)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:serzh.li.04.06@yandex.ru)
 
 ---
 
