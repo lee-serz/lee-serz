@@ -24,20 +24,11 @@
 
 ---
 
-### 📈 Моя статистика GitHub:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical)](https://github.com/ваш_username)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical)](https://github.com/ваш_username)
-
----
-
 ### 📌 Активные проекты:
-- [Проект 1](https://github.com/ваш_username/репозиторий) — Краткое описание  
-- [Проект 2](https://github.com/ваш_username/репозиторий) — Краткое описание  
+- [Lumeno](https://github.com/lee-serz/lumeno) — Трекер привычек 📊
 
 ---
 
-### 💬 Обо мне:
-- 🔭 Сейчас работаю над: [описание проекта]  
-- 🌱 Изучаю: TypeScript, GraphQL  
-- 📫 Как связаться: [ваш email или соцсети]  
+### 💬 Обо мне: 
+ 
 - ⚡ Факт: Люблю минималистичный дизайн и чистый код  
