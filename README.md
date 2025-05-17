@@ -3,7 +3,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/akazaaaaaaaaaaaaaaaa)
 [![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:serzh.li.04.06@yandex.ru)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_derante) 
+[![Instagram](https://img.shields.io/badge/-Instagram-ea4335?style=flat-square&logo=gmail&logoColor=white)](https://instagram.com/_derante) 
 
 ---
 
