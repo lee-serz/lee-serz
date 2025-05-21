@@ -20,19 +20,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lee-serz&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lee-serz&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-serz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 ### 📌 Активные проекты:
 - [Lumeno](https://github.com/lee-serz/lumeno) — Трекер привычек 📊
-
----
-
-### 💬 Обо мне: 
-- 🎓 Заканчиваю последний курс по Информационным технологиям и программированию
-- 🎵 Люблю музыку и играю на гитаре
-- 🍜 Всегда за то, чтобы вкусно покушать
